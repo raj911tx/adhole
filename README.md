@@ -15,7 +15,15 @@
 # So it can be in sync with all the millions of ips of adservers and able to block most of them.
 ```
 
+# Dashboard
+![](https://github.com/raj911tx/adhole/blob/main/pihole.png)
+
 pull the docker image from dockerhub
 
 `docker pull adhole/adhole`
 
+script storing youtube adserver links to a google-form
+![](https://github.com/raj911tx/adhole/blob/main/adhole_dns_list.png)
+
+## Here is a guide how to update update list from remote sources:
+[updatelist](https://github.com/jacklul/pihole-updatelists#install-with-docker)
