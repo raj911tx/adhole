@@ -1,12 +1,12 @@
 # adhole
+![adhole](https://github.com/raj911tx/adhole/blob/main/DALL%C2%B7E%202023-01-20%2020.02.19%20-%20a%20black%20hole%20is%20pulling%20many%20ads.png)
+- Adhole is a network-level advertisement and tracker blocking application that can be installed on a variety of platforms, but is most commonly run on any Single Board Computer or any Virtual Machine. Once installed, it acts as a DNS server, intercepting DNS queries from devices on the network and blocking known malicious domains. This prevents devices from connecting to sources of advertisements, trackers, and malware, resulting in faster web browsing and an overall cleaner and safer online experience.
 
-Adhole is a network-level advertisement and tracker blocking application that can be installed on a variety of platforms, but is most commonly run on any Single Board Computer or any Virtual Machine. Once installed, it acts as a DNS server, intercepting DNS queries from devices on the network and blocking known malicious domains. This prevents devices from connecting to sources of advertisements, trackers, and malware, resulting in faster web browsing and an overall cleaner and safer online experience.
+- Adhole's blocking capabilities go beyond just advertisements; it can also be used to block unwanted content such as adult websites, social media platforms, and even specific YouTube channels. Additionally, it can increase privacy by blocking third-party tracking cookies, which are often used by advertisers and other companies to track users' online behavior.
 
-Adhole's blocking capabilities go beyond just advertisements; it can also be used to block unwanted content such as adult websites, social media platforms, and even specific YouTube channels. Additionally, it can increase privacy by blocking third-party tracking cookies, which are often used by advertisers and other companies to track users' online behavior.
+- The software is very easy to configure through a web interface, and can be integrated with a variety of third-party services such as DHCP servers and VPNs. It works with any device that can be configured to use a DNS server, including computers, smartphones, and smart TVs. This makes Adhole an ideal solution for both home and small office networks.
 
-The software is very easy to configure through a web interface, and can be integrated with a variety of third-party services such as DHCP servers and VPNs. It works with any device that can be configured to use a DNS server, including computers, smartphones, and smart TVs. This makes Adhole an ideal solution for both home and small office networks.
-
-Overall, Adhole is a powerful tool for blocking unwanted content and increasing privacy, and its ease of use makes it accessible to users of all technical abilities. Its popularity is also growing, and many network administrators are using it to protect their networks and users from unwanted ads, trackers, and malware.
+- Overall, Adhole is a powerful tool for blocking unwanted content and increasing privacy, and its ease of use makes it accessible to users of all technical abilities. Its popularity is also growing, and many network administrators are using it to protect their networks and users from unwanted ads, trackers, and malware.
 
 ```diff 
 + Adhole is made from using pi-hole. It is specifically designed to block Youtube ads with pihole is unable to do. 
